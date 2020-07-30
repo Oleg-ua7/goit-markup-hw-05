@@ -77,6 +77,9 @@ p {
 /* ---------------------------------------- */
 /* header */
 /* ---------------------------------------- */
+.header {
+  border-bottom: 1px solid #ececec;
+}
 
 .address-conteiner {
   margin-left: auto;
